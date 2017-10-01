@@ -55,6 +55,7 @@ body, html {
 .pimg1{
 	background-image: url('../Img/Stock1.jpeg');
 	min-height: 65%;
+	background-position: top;
 
 }
 
